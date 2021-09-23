@@ -1,4 +1,4 @@
- {
+{
     "displayName": "Local Developer",
     "permissions": {
         "PageBuilder": {      
@@ -12,4 +12,4 @@
                 ]    
             }  
     }
-} 
+}
